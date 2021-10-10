@@ -1,2 +1,3 @@
 # abt.bot
-about
+cmnds ->
+
