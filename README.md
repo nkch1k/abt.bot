@@ -1,3 +1,6 @@
+<h1>Hey everybody this file is just r.md about my easy only js built simple bot guide-project  </h1>
+
+
 # abt.bot
 <h2>About</h2>
 
@@ -17,4 +20,4 @@
 
 
 
-Th
+
