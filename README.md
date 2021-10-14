@@ -1,4 +1,4 @@
-<h1>Hey everybody this file is just r.md about my easy only js built simple bot guide-project  </h1>
+<h1>Hey everybody this file is just r.md about my easy only js built simple bot guide-miniproject  </h1>
 
 
 # abt.bot
